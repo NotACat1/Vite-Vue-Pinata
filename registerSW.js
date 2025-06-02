@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('https://notacat1.github.io/Vite-Vue-Pinata/sw.js', { scope: 'https://notacat1.github.io/Vite-Vue-Pinata/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Vite-Vue-Pinata/sw.js', { scope: '/Vite-Vue-Pinata/' })})}
