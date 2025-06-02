@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Vite-Vue-Pinata/sw.js', { scope: '/Vite-Vue-Pinata/' })})}
