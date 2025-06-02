@@ -49,9 +49,7 @@ coverage/
 __snapshots__/
 __tests__/__mocks__/
 *.test.js
-*.test.ts
 *.spec.js
-*.spec.ts
 
 # Debug
 debug/
